@@ -19,6 +19,7 @@ const Home = () => {
       <div className="homeWidgets">
         <h1>ahmed</h1>
         <h1>khawla</h1>
+        <h1>khawla1</h1>
         <WidgetSm />
         <WidgetLg />
       </div>
