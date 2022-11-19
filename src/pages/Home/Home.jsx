@@ -21,6 +21,12 @@ const Home = () => {
         <h1>khawla</h1>
         <h1>khawla1</h1>
         <h1>new commit </h1>
+        <h1>stashing </h1>
+        <h1>stashing </h1>
+        <h1>stashing </h1>
+        <h1>stashing </h1>
+        <h1>stashing </h1>
+        <h1>stashing </h1>
         <WidgetSm />
         <WidgetLg />
       </div>
